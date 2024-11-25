@@ -16,11 +16,3 @@ This project leverages OpenCV to detect faces and eyes in photos. It is part of 
 - **Python**: The primary programming language used for this project.
 - **NumPy**: For numerical operations on image data.
 
-## Installation
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/yourrepositoryname.git
-   cd yourrepositoryname
-  ```
-1. **Clone the Repository**:

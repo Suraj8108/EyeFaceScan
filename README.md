@@ -23,5 +23,4 @@ This project leverages OpenCV to detect faces and eyes in photos. It is part of 
    git clone https://github.com/yourusername/yourrepositoryname.git
    cd yourrepositoryname
   ```
-2. **Use Jupyter for executing the files**:
-
+1. **Clone the Repository**:
